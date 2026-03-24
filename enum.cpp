@@ -5,7 +5,7 @@ enum Languages{ Bengali, Hindi, Tamil, Telegu, Punjabi, Malayalam};
 
 int main(){
     Languages select;
-    select = Tamil;
+    select = Bengali;
     cout<<select;
     cout<<"🍎"; 
     return 0;
