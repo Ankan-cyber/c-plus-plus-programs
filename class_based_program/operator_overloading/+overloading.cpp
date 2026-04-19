@@ -8,12 +8,12 @@ public:
     Numbers() {}
     Numbers(int a) : var(a) {}
 
-    Numbers operator+(Numbers &obj)
+    Numbers operator+(Numbers &obj) 
     {
         Numbers res;
         res.var = this->var + obj.var;
         return res;
-    }
+    }   
 };
 
 int main()

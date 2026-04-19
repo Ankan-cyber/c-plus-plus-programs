@@ -1,5 +1,5 @@
 /*
-Write a program with a mother class and an inherited daugther class.Both of them should have a method void display ()that prints a message (different for mother and daugther).In the main define a daughter and call the display() method on it.
+Write a program with a mother class and an inherited daugther class.Both of them should have a method void display ()that prints a message (different for mother and daugther).In the main define a daughter and call the display() method on it. function overriding should be used to achieve this.
 */
 #include <iostream>
 using namespace std;

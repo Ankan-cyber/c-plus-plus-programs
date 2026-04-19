@@ -1,0 +1,3 @@
+This is the first line.
+Writing to a file is easy!
+Age: 21
